@@ -1,4 +1,3 @@
-# 🤖 AI Business Intelligence Dashboard
 
 # 🤖 AI Business Intelligence Dashboard
 
