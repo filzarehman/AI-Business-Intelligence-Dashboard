@@ -1,5 +1,10 @@
 # 🤖 AI Business Intelligence Dashboard
 
+# 🤖 AI Business Intelligence Dashboard
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-business-intelligence-dashboard-dq7pd8yxpbusnzkrrsvx9y.streamlit.app/)
+
+🔗 **Live Demo:** [AI Business Intelligence Dashboard](https://ai-business-intelligence-dashboard-dq7pd8yxpbusnzkrrsvx9y.streamlit.app/)
 
 An AI-powered e-commerce analytics dashboard built with **Python, Streamlit, Pandas, Plotly, and Scikit-learn**.
 
